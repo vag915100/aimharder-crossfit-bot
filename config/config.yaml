@@ -1,0 +1,14 @@
+
+- vag915100:
+    box-name: crossfitberkanasantiago
+    box-id: "PENDIENTE"
+    email: "TU_EMAIL_DE_AIMHARDER"
+    password: "TU_PASSWORD_DE_AIMHARDER"
+    booking-goals:
+      - monday,2025,CrossFit
+      - wednesday,2025,CrossFit
+    hours-in-advance: 25
+    exceptions:
+    telegram:
+      telegram-bot-token: "TU_TOKEN_DE_TELEGRAM"
+      telegram-chat-id: "TU_CHAT_ID"
